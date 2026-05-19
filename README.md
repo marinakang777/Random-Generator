@@ -85,7 +85,8 @@ README.md — описание
 git init
 git add .
 git commit -m "Initial commit: Random Task Generator"
-git remote add origin https://github.com/ваш_username/RandomTaskGenerator.git
+git remote add origin https://github.com/marinakang777/Random-Generator.git
+
 git push -u origin main
 
 
